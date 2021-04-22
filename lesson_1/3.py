@@ -1,0 +1,5 @@
+a = input("Введите число:")
+m = (a + a)
+s = (a + a + a)
+t = int(a) + int(m) + int(s)
+print(str(a)+ "+" +str(m)+ "+" +str(s)+ "=" +str(t))
